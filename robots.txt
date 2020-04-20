@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patilerin-gezegeni.mordwerg.com/sitemap.xml
